@@ -1,0 +1,4 @@
+-xc++
+-w
+-ferror-limit=0
+-Iinclude
