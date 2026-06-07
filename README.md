@@ -1,6 +1,6 @@
 # Zigbee Air Quality Monitor
 
-This project uses an **ESP32-H2-Zero-M** and a **ZPHS01C-Z** air quality sensor module to build a native Zigbee 3.0 environmental monitor. The ESP32-H2 features a built-in 802.15.4 radio, allowing it to communicate directly with Zigbee coordinators (like Zigbee2MQTT or ZHA).
+This project uses an **ESP32-H2-Zero-M** and a **ZPHS01C** air quality sensor module to build a native Zigbee 3.0 environmental monitor. The ESP32-H2 features a built-in 802.15.4 radio, allowing it to communicate directly with Zigbee coordinators (like Zigbee2MQTT or ZHA).
 
 ## Sensor Overview
 
